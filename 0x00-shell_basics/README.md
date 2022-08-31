@@ -1,1 +1,1 @@
-script that changes the working directory to the previous one
+We are symbols, and inhabit symbols
